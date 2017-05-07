@@ -11,18 +11,18 @@ http://www.macrohistory.net/data/
 
 ## 변수명 
 
-year : Year
-country : Country
-iso : ISO 3-letter code
-ifs : IFS 3-number country-code
-stocks : Stock prices (nominal index)
-hpnom : House prices (nominal index, 1990=100)
-tloans:	Total loans to non-financial private sector (nominal, local currency)
-tmort:	Mortgage loans to non-financial private sector (nominal, local currency)
-thh:	Total loans to households (nominal, local currency)
-tbus:	Total loans to business (nominal, local currency)
-debtgdp:	Public debt-to-GDP ratio
-revenue:	Government revenues (nominal, local currency)
+1. year : Year
+2. country : Country
+3. iso : ISO 3-letter code
+4. ifs : IFS 3-number country-code
+5. stocks : Stock prices (nominal index)
+6. hpnom : House prices (nominal index, 1990=100)
+7. tloans:	Total loans to non-financial private sector (nominal, local currency)
+8. tmort:	Mortgage loans to non-financial private sector (nominal, local currency)
+9. thh:	Total loans to households (nominal, local currency)
+10. tbus:	Total loans to business (nominal, local currency)
+* debtgdp:	Public debt-to-GDP ratio
+* revenue:	Government revenues (nominal, local currency)
 expenditure:	Government expenditure (nominal, local currency)
 ca:	Current account (nominal, local currency)
 imports:	Imports (nominal, local currency)
