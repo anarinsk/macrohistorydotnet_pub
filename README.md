@@ -21,10 +21,10 @@ http://www.macrohistory.net/data/
 8. tmort:	Mortgage loans to non-financial private sector (nominal, local currency)
 9. thh:	Total loans to households (nominal, local currency)
 10. tbus:	Total loans to business (nominal, local currency)
-* debtgdp:	Public debt-to-GDP ratio
-* revenue:	Government revenues (nominal, local currency)
-expenditure:	Government expenditure (nominal, local currency)
-ca:	Current account (nominal, local currency)
+11. debtgdp:	Public debt-to-GDP ratio
+12. revenue:	Government revenues (nominal, local currency)
+*. expenditure:	Government expenditure (nominal, local currency)
+*. ca:	Current account (nominal, local currency)
 imports:	Imports (nominal, local currency)
 exports:	Exports (nominal, local currency)
 xrusd:	USD exchange rate (local currency/USD)
