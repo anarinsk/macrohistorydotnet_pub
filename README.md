@@ -9,7 +9,7 @@ http://www.macrohistory.net/data/
     
 * 이외 변수 정의 등은 엑셀 파일이나 위의 홈페이지를 참고하시기 바란다! 
 
-## 변수명 
+## 변수 간략 해설 
 
 1. year : Year
 2. country : Country
